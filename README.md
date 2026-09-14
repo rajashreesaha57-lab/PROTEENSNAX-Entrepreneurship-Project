@@ -10,7 +10,7 @@ Our idea focuses on providing affordable, tasty and protein-rich food products w
 
 To understand how a business can be developed from scratch — from identifying a problem and developing a product to understanding customers, pricing, marketing and business execution.
 
-## 👥 Team P6
+## 👥 Team 
 
 - Krishna – CEO
 - Rajashree
